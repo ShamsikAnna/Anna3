@@ -1,0 +1,15 @@
+Index: src/com/company/Main.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- src/com/company/Main.java	(revision a17a58c5a94301dbdd7df81df33f898517471ac9)
++++ src/com/company/Main.java	(date 1529579287026)
+@@ -3,6 +3,6 @@
+ public class Main {
+ 
+     public static void main(String[] args) {
+-	// write your code here
++        System.out.println("dfdsdfs");
+     }
+ }
